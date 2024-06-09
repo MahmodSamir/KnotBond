@@ -1,0 +1,6 @@
+@KnotBond_HostAddress = http://localhost:5247
+
+GET {{KnotBond_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
